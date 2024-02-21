@@ -10,6 +10,9 @@
 /backend/package-lock.json
 /package-lock.json
 
+#backend_files
+/backend/data/events.json
+
 # testing
 /coverage
 
